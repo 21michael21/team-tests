@@ -1,4 +1,4 @@
 teamcity:
-  base_url: "http://mock-teamcity-server"  # URL для мокирования
+  base_url: "http://mock-teamcity-server" 
   username: "mockuser"
   password: "mockpassword"
