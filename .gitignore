@@ -1,0 +1,23 @@
+# Виртуальное окружение
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Allure результаты
+allure-results/
+allure-report/
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# IDE-специфичные файлы
+.idea/
+*.iml
+
+# macOS-специфичные файлы
+.DS_Store
